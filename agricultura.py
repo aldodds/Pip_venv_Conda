@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Asegúrate de que tu DataFrame `df` esté cargado correctamente
 # Aquí 'ruta/datos.csv' es la ruta a tu archivo CSV
 df = pd.read_csv('datos.csv')
 
